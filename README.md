@@ -1,7 +1,7 @@
 # Python SQLAlchemy - Climate Analysis & API
 
 ## Background
-Congratulations! I have decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To help with my trip planning, I need to do some climate analysis on the area. The following outlines what I needed to do.
+I had decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To help with my trip planning, I needed to do some climate analysis on the area. The following outlines what I needed to do.
 
 ## Step 1 - Climate Analysis and Exploration
 
